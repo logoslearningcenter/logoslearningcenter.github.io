@@ -235,4 +235,4 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 .order-first{order:-1!important}
 a:-webkit-any-link {text-decoration:none!important}
-@media (max-width:768px){.classes-overlay{position:absolute;top:250px}.w3-opacity-min{opacity:.10}}
+@media (max-width:768px){.classes-overlay{position:absolute;top:160px}.w3-opacity-min{opacity:.10}}
