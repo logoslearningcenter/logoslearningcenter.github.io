@@ -238,3 +238,4 @@ a:-webkit-any-link {text-decoration:none!important}
 @media (max-width:768px){.classes-overlay{position:absolute;top:160px}.w3-opacity-min{opacity:.10}}
 .logo-top{width:100%}
 .minimelogo{width:10%;margin-left:50%;transform:translateX(-50%)}
+@media (max-width:768px){.minimelogo{width:35%}}
