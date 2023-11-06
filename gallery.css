@@ -12,13 +12,13 @@ box-sizing: inherit;
 .masonry {
 margin: 1.5em auto;
 max-width: 768px;
-column-gap: 1.5em;
+column-gap: 1em;
 }
 
 /* The Masonry Brick */
 .brick {
 background: #fff;
-padding: 1em;
+padding: 5px;
 margin: 0 0 1.5em;
 }
 
@@ -43,5 +43,3 @@ margin: 0 0 1.5em;
 }
 }
 img{width:100%}
-.masonry {column-count: 4;column-gap: 1em}
-.brick {background-color: #eee;display: inline-block;margin: 0 0 1em;width: 100%}
