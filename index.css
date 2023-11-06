@@ -239,3 +239,4 @@ a:-webkit-any-link {text-decoration:none!important}
 .logo-top{width:100%}
 .minimelogo{width:10%;margin-left:50%;transform:translateX(-50%)}
 @media (max-width:768px){.minimelogo{width:35%}}
+@media (max-width:768px){.display-grid-mobile{display:grid}}
