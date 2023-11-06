@@ -236,6 +236,3 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .order-first{order:-1!important}
 a:-webkit-any-link {text-decoration:none!important}
 @media (max-width:768px){.classes-overlay{position:absolute;top:160px}.w3-opacity-min{opacity:.10}}
-.masonry {column-count: 4;column-gap: 1em}
-.item {background-color: #eee;display: inline-block;margin: 0 0 1em;width: 100%}
-.brick{img{width:100%}}
