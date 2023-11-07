@@ -240,3 +240,5 @@ a:-webkit-any-link {text-decoration:none!important}
 .minimelogo{width:10%;margin-left:50%;transform:translateX(-50%)}
 @media (max-width:768px){.minimelogo{width:35%}}
 @media (max-width:768px){.display-grid-mobile{display:grid}}
+@media (min-width:768px){p{font-size:18px!important}}
+@media (min-width:768px){.w3-medium{font-size:18px!important}}
