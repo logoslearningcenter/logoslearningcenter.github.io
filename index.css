@@ -154,3 +154,4 @@ a:-webkit-any-link {text-decoration:none!important}
 .pricing-content:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)}
 .price {font-size:30px!important}
 sub{font-size:50%!important}
+.pricing-container{margin: 0 auto}
