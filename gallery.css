@@ -17,31 +17,28 @@ margin: 1.5em auto;
 max-width: 1680px;
 column-gap: 1em;
 }
-
 /* The Masonry Brick */
 .brick {
 background: #fff;
 padding: 5px;
 margin: 0 0 1.5em;
 }
-
 /* Masonry on large screens */
 @media (min-width: 1024px) {
 .masonry {
     column-count: 4;
 }
 }
-
 /* Masonry on medium-sized screens */
 @media (max-width: 1023px) and (min-width: 768px) {
 .masonry {
     column-count: 3;
 }
 }
-
 /* Masonry on small screens */
 @media (max-width: 767px) and (min-width: 540px) {
 .masonry {
     column-count: 2;
 }
 }
+
