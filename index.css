@@ -150,3 +150,5 @@ a:-webkit-any-link {text-decoration:none!important}
 @media (max-width:768px){.display-grid-mobile{display:grid}}
 @media (min-width:768px){p{font-size:18px!important}}
 @media (min-width:768px){.w3-medium{font-size:18px!important}}
+.pricing-content{padding:20px 30px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transition:0.3s}
+.pricing-content:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)}
