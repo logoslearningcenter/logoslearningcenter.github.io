@@ -155,3 +155,7 @@ a:-webkit-any-link {text-decoration:none!important}
 .price {font-size:40px!important}
 sub{font-size:50%!important}
 .pricing-container{margin: 0 auto}
+.pricing-container-class{margin: 30px auto; position: relative; padding:0 20px}
+.classes-overlay-season{position: absolute}
+.w3-opacity-min-25{opacity:0.2}
+.pricing-content-class{padding:0}
