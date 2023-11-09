@@ -161,6 +161,6 @@ sub{font-size:50%!important}
 .pricing-content-class{padding:20px 30px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transition:0.3s;background-color:#cc8f6f}
 @media (max-width:768px){.pricing-content-class{padding:10px}}
 @media (max-width:768px){.pricing-container-class{padding:0 5px}}
-@media (max-width:768px){.empty{top:100px!important}}
+@media (max-width:768px){.empty{top:120px!important}}
 @media (max-width:768px){.classes-overlay-season{margin-left:50%}}
-@media (max-width:768px){.pricing-content-class.set-height{height:350px}}
+@media (max-width:768px){.pricing-content-class.set-height{height:350px!important}}
