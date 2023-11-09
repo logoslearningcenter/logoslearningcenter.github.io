@@ -156,6 +156,9 @@ a:-webkit-any-link {text-decoration:none!important}
 sub{font-size:50%!important}
 .pricing-container{margin: 0 auto}
 .pricing-container-class{margin: 30px auto; position: relative; padding:0 20px}
-.classes-overlay-season{position: absolute}
+.classes-overlay-season{position: absolute;top:250px;margin-left:50%;transform:translateX(-50%);width:70%}
 .w3-opacity-min-25{opacity:0.2}
-.pricing-content-class{padding:0}
+.pricing-content-class{padding:20px 30px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transition:0.3s;background-color:#cc8f6f}
+@media (max-width:768px){.pricing-content-class{padding:10px}}
+@media (max-width:768px){.pricing-container-class{padding:0 5px}}
+@media (max-width:768px){.empty{top:100px!important}}
