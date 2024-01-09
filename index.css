@@ -153,6 +153,7 @@ a:-webkit-any-link {text-decoration:none!important}
 .pricing-content{padding:20px 30px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transition:0.3s;background-color:#cc8f6f}
 .pricing-content:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)}
 .price {font-size:40px!important}
+.price1 {font-size:20px!important}
 sub{font-size:50%!important}
 .pricing-container{margin: 0 auto}
 .pricing-container-class{margin: 30px auto; position: relative; padding:0 20px}
