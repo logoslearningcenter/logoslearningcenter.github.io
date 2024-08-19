@@ -166,3 +166,4 @@ sub{font-size:50%!important}
 @media (max-width:768px){.classes-overlay-season{margin-left:50%}}
 @media (max-width:768px){.pricing-content-class.set-height{height:350px!important}}
 @media (max-width:768px){.pricing-content-class.set-height-2{height:fit-content!important}}
+.display-flex{display: flex}
