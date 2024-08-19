@@ -66,8 +66,15 @@
     <p class="w3-justify">We would love for you and your little one to join our classes and events, and be a part of our fun, supportive community of parents and caregivers at Logos Learning Center!</p>
 
     <div class="imageGallery1">
-      <a href="assets/images/Calendar.jpg"><img src="assets/images/Calendar.jpg" style="width:100%"/></a>
+      <img src="assets/images/Calendar.jpg" onclick=openModal(); style="width:100%"/></a>
     </div>
+
+    <div id="myModal" class="modal">
+      <span class="close cursor" onclick="closeModal()">&times;</span>
+      <div class="modal-content">
+        <div class="imageGallery1">
+          <img src="assets/images/Calendar.jpg"style="width:100%"/></a>
+        </div>
 
     <div class="w3-container w3-content w3-center w3-padding-24" style="max-width:1200px">
       <div class="w3-col display-flex">
@@ -166,8 +173,15 @@ window.onclick = function(event) {
   }
 }
 
-// When the user clicks on image lightbox
-new SimpleLightbox({elements: '.imageGallery1 a'});
+// Open the Modal
+function openModal() {
+  document.getElementById("myModal").style.display = "block";
+}
+
+// Close the Modal
+function closeModal() {
+  document.getElementById("myModal").style.display = "none";
+}
 
 </script>
 
