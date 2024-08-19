@@ -1,6 +1,4 @@
-/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
-/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
@@ -152,7 +150,7 @@ a:-webkit-any-link {text-decoration:none!important}
 @media (min-width:768px){.w3-medium{font-size:18px!important}}
 .pricing-content{padding:20px 30px;height:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transition:0.3s;background-color:#cc8f6f}
 .pricing-content:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)}
-.price {font-size:40px!important}
+.price {font-size:40px;line-height:normal}
 .price1 {font-size:20px!important}
 sub{font-size:50%!important}
 .pricing-container{margin: 0 auto; padding-bottom: 20px}
