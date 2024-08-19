@@ -155,7 +155,7 @@ a:-webkit-any-link {text-decoration:none!important}
 .price {font-size:40px!important}
 .price1 {font-size:20px!important}
 sub{font-size:50%!important}
-.pricing-container{margin: 0 auto}
+.pricing-container{margin: 0 auto; padding-bottom: 20px}
 .pricing-container-class{margin: 30px auto; position: relative; padding:0 20px}
 .classes-overlay-season{position: absolute;top:250px;margin-left:44%;transform:translateX(-50%);width:70%}
 .w3-opacity-min-25{opacity:0.2}
