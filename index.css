@@ -166,3 +166,5 @@ sub{font-size:50%!important}
 @media (max-width:768px){.pricing-content-class.set-height{height:350px!important}}
 @media (max-width:768px){.pricing-content-class.set-height-2{height:fit-content!important}}
 .display-flex{display:flex;gap:20px}
+@media (max-width:768px){.display-flex{flex-direction:column}}
+@media (max-width:768px){.w3-col.s4{width:90%}}
