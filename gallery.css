@@ -17,6 +17,11 @@ margin: 1.5em auto;
 max-width: 1680px;
 column-gap: 1em;
 }
+
+.masonry.party {
+    max-width: 1000px;
+    column-count: 2; 
+}
 /* The Masonry Brick */
 .brick {
 background: #fff;
